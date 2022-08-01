@@ -24,8 +24,7 @@ body {
   flex-direction: column;
   background: hsl(0, 0%, 100%);
   width: min-content;
-  height: 500px;
-  padding: 0 15px;
+  padding: 16px;
   border-radius: 20px;
 }
 .wrapper img {
@@ -34,7 +33,7 @@ body {
   border-radius: 0.60em;
   margin-bottom: 20px;
 }
-.wrapper figcaption {
+.wrapper h1 {
   text-align: center;
   color: hsl(218, 44%, 22%);
   font-size: 25px;
